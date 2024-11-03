@@ -1,4 +1,4 @@
- ![MasterHead](https://www.creodive.com.tr/wp-content/uploads/programlama-dilleri-1.jpeg)
+ ![MasterHead](https://i0.wp.com/teknoreg.com/wp-content/uploads/2022/11/En-Yaygin-5-Programlama-Dilleri.jpg?w=1920&ssl=1)
 <h1 align="center">Hi 👋, I'm Ahmet Gökhan Uçar</h1>
 <h3 align="center">A passionate Web Developer from Türkiye</h3>
 
